@@ -3,11 +3,11 @@
 <p>
   <p align="center">
     I'm Souly, a passionate Java and Skript developer.<br>
-    I'm experienced in developing Minecraft servers and writing <a href="https://github.com/SkriptLang/Skript" target="_blank">Skript scripts</a> to enhance gameplay.
+    I'm experienced in developing Minecraft servers and writing <a href="https://github.com/SkriptLang/Skript" target="_blank">Skripts</a> to enhance gameplay.
   </p>
   <p align="center">
-    I'm constantly learning new things and improving my skills.<br>
-    Feel free to reach out to me for commissions or other requests!
+    I'm constantly trying to learn new things and improve my skills. Every new thing I learn, is a new way to enhance gameplay.<br>
+    Feel free to join this <a href="https://discord.gg/P64rxKPh3R" target="_blank">Discord</a> to get help.
   </p>
 </p>
 
@@ -17,3 +17,9 @@
 - 👤 **Pronouns:** he / him
 - 🎧 **Music taste:** I'm currently listening to german hip hop.
 - 🌎 **Languages:** I'm good in speaking `English` and fluent in `German`.
+
+<!-- SMP -->
+<h3 align="left">🌲 Best German SMP Server</h3>
+
+- 🌌 **Discord:** <a href="https://discord.gg/HqRfCAbMeq" target="_blank">Click me</a>
+- 🧾 **Version:** Java 1.21+
