@@ -20,7 +20,8 @@
 - 🌎 **Languages:** I'm good in speaking `English` and fluent in `German`.
 
 <!-- SMP -->
-<h3 align="left">🌲 Best German SMP Server</h3>
+<br>
+<h2 align="left">🌲 Best German SMP Server</h2>
 
 - 🌌 **Discord:** <a href="https://discord.gg/HqRfCAbMeq" target="_blank">Click me</a>
 - 🧾 **Version:** Java 1.21+
