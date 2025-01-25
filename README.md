@@ -9,9 +9,6 @@
     I'm constantly learning new things and improving my skills.<br>
     Feel free to reach out to me for commissions or other requests!
   </p>
-  <p align="center">
-    <a href="https://discord.gg/adventuresmp"><img src="https://img.shields.io/badge/-AdventureSMP-D14836?style=for-the-badge&logo=minetest&logoColor=white" alt="Discord" /></a>
-  </p>
 </p>
 
 <!-- Facts -->
