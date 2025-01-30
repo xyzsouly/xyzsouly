@@ -18,6 +18,7 @@
 - 👤 **Pronouns:** he / him
 - 🎧 **Music taste:** I'm currently listening to german hip hop.
 - 🌎 **Languages:** I'm good in speaking `English` and fluent in `German`.
+- 👨‍💻 **Coding Language:** Learning Java & JS. I'm able to code in Skript currently.
 
 <!-- SMP -->
 <br>
