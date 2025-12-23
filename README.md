@@ -7,7 +7,7 @@
   </p>
   <p align="center">
     I'm constantly trying to learn new things and improve my skills. Every new thing I learn, is a new way to enhance gameplay.<br>
-    Feel free to join this <a href="https://discord.gg/P64rxKPh3R" target="_blank">Discord</a> to get help.
+    Feel free to join this <a href="https://discord.gg/vmCjrhVVN6" target="_blank">Discord</a> to hangout.
   </p>
 </p>
 
