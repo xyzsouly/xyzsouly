@@ -17,7 +17,7 @@
 - 👤 **Pronouns:** he / him
 - 🎧 **Music taste:** Undescribeable.
 - 🌎 **Languages:** I'm good in speaking `English` and fluent in `German`.
-- 👨‍💻 **Coding Language:** Many years of Skript. HTML, JS, Java, Python Knowledge.
+- 👨‍💻 **Coding Language:** Skript, HTML, JS, Java, Python Knowledge.
 
 <!-- Contact Me -->
 <br>
