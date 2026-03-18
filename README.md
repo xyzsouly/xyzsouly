@@ -9,9 +9,9 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <ul>
-  <li>👤 <strong>Pronouns:</strong> he / him</li>
-  <li>🌎 <strong>Languages:</strong> Fluent in German, good English</li>
-  <li>🛠️ <strong>Focus:</strong> Game development, web development, software engineering</li>
+  <li><strong>Pronouns:</strong> he / him</li>
+  <li><strong>Languages:</strong> Fluent in German, good English</li>
+  <li><strong>Focus:</strong> Game development, web development, software engineering</li>
 </ul>
 
 <!-- Tech Stack -->
@@ -28,5 +28,5 @@
 <h2 align="left">📩 Contact Me</h2>
 
 <ul>
-  <li>🌌 <strong>Discord:</strong> @xyzsly</li>
+  <li><strong>Discord:</strong> @xyzsly</li>
 </ul>
