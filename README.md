@@ -2,7 +2,8 @@
 <h1 align="center">👋 Hey there!</h1>
 
 <p align="center">
-  I'm <strong>souly</strong>, a passionate developer focused on game and web development.<br>
+  I'm <strong>souly</strong>, a developer, mod creator, and video editor focused on building across game and web development.<br>
+  I enjoy creating systems, visuals, and interactive experiences.
 </p>
 
 <!-- About Me -->
@@ -10,8 +11,9 @@
 
 <ul>
   <li><strong>Pronouns:</strong> he / him</li>
-  <li><strong>Languages:</strong> Fluent in German, good English</li>
-  <li><strong>Focus:</strong> Game development, web development, software engineering</li>
+  <li><strong>Languages:</strong> German (native), English (good)</li>
+  <li><strong>Focus:</strong> Game development, web development, Minecraft modding, and video editing</li>
+  <li><strong>Current Work:</strong> Minecraft projects & creative content production</li>
 </ul>
 
 <!-- Tech Stack -->
@@ -24,9 +26,21 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
+<!-- What I Do -->
+<h2 align="left">🧠 What I Do</h2>
+
+<ul>
+  <li>🎮 Minecraft mod development</li>
+  <li>🌐 Web development</li>
+  <li>🧩 Experimental software & tools</li>
+  <li>🎬 Video editing</li>
+  <li>📦 Member of <strong>SallyLabs</strong> (Minecraft projects & collaboration)</li>
+</ul>
+
 <!-- Contact Me -->
 <h2 align="left">📩 Contact Me</h2>
 
 <ul>
   <li><strong>Discord:</strong> @xyzsly</li>
+  <li><strong>Email:</strong> souly@sallylabs.net</li>
 </ul>
